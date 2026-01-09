@@ -1,20 +1,23 @@
-# Phase 2 – Data Mining for Cybersecurity
+Phase 2 – Data Mining for Cybersecurity
 
 This repository contains the Phase 2 project for the Data Mining for Cybersecurity course.
 
-## Final Report
+Final Report
+
 The final IEEE-formatted report is available here:
 
-**Phase2_IEEE_Report_DataMining.pdf**
+[Phase2_IEEE_Report_DataMining.pdf](Phase2_IEEE_Report_DataMining.pdf)
 
-## Dataset
+
+
+Dataset
 CICEVSE2024 dataset (Host Events and Power Consumption).
 
-## Techniques
+Techniques
 - Data preprocessing
 - Exploratory Data Analysis (EDA)
 - Supervised classification using Random Forest
 
-## Author
+ Author
 Omar Mahmoud  
 Fenerbahçe University
