@@ -1,0 +1,7 @@
+Shunt_voltage_mV,Bus_voltage,Current_mA,Power_mw,Label
+2.31,12.1,420,5080,Benign
+2.29,12.0,415,4980,Benign
+2.85,12.3,610,7500,Attack
+2.90,12.4,625,7750,Attack
+2.33,12.1,430,5200,Benign
+2.88,12.3,640,7900,Attack
